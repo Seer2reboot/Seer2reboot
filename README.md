@@ -16,6 +16,7 @@
 对于这类项目在二次或多次修改传播后，可能造成的任何不良影响，开发者不负任何连带责任
 ### 贡献人员
 动画审计/动画设计:蓝羽
+
 程序设计:Furau
 <!--
 **Seer2reboot/Seer2reboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
